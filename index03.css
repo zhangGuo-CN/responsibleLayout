@@ -1,0 +1,20 @@
+.left, .center, .right{
+  width: 100%;
+  display: block;
+  height: 200px;
+  line-height: 200px;
+}
+.center{
+  border: hidden;
+  border-top: 10px  solid #FFFFFF;
+  border-bottom: 10px solid #FFFFFF;
+  height: 600px;
+  line-height: 600px;
+}
+#head ul{
+  display: none;
+}
+/* 展示icon */
+#head div{
+  display: block;
+}

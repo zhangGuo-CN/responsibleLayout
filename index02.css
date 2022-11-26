@@ -1,0 +1,10 @@
+.right{
+  display: none;
+}
+.left{
+  width: 30%;
+}
+.center{
+  width: 70%;
+  border-right: hidden;
+}
